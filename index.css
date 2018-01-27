@@ -38,15 +38,22 @@ li a:hover:not(.active) {
  background-color: #111;
 }
 
-.active {
- background-color: #4CAF50;
-}
+
 p{
  color: green;
 text-align:center;
 font-size: 25;
 
-}img{
+}
+.hello{
+    text-align:center;
+
+
+
+}
+
+img{
  width:100%;
 }
+
        
